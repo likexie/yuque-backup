@@ -35,8 +35,7 @@
 必填项：token
 非必填：备份路径
 非必填：保存格式（建议html兼容性好）
-
-![输入图片说明](images/yqapiconf.py%20%C2%B7%20SpeedPython-%E8%AF%AD%E9%9B%80%E6%96%87%E6%A1%A3%E5%A4%87%E4%BB%BD%20-%20%E7%A0%81%E4%BA%91%20-%20%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%20-%20Google%20Chrome_2022-08-07_18-18-41.png)
+![输入图片说明](images/code2.png)
 
 5. 执行  
 python main.py
