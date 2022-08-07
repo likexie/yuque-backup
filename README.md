@@ -8,8 +8,18 @@
 
 
 #### 安装教程
-1. 安装python解释器
-
+1. 安装python解释器  
+第一步：获取token:登录语雀平台设置token  
+第二步：获取路径：点开账号设置  
+第三步：拉取代码  
+第三步：修改yuque/conf.py中的内容   
+```shell
+必填项：个人路径
+必填项：token
+非必填：备份路径
+非必填：保存格式（建议html兼容性好）  
+```
+## 具体步骤看一下步骤：  
 #### 使用说明步骤
 **第一步：获取token:登录语雀平台设置token**
 1. 登录语雀平台：https://www.yuque.com/settings/tokens
