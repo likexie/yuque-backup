@@ -24,8 +24,8 @@
 ![输入图片说明](images/image.png)
 ![输入图片说明](images/%E4%B8%AA%E4%BA%BA%E8%AE%BE%E7%BD%AE.png)  
 
-**第三步：拉去代码**
-4. 拉取代码
+**第三步：拉取代码**  
+4. 拉取代码  
 ```python
     安装模块    
     pip install requests
@@ -38,9 +38,9 @@
 
 ![输入图片说明](images/yqapiconf.py%20%C2%B7%20SpeedPython-%E8%AF%AD%E9%9B%80%E6%96%87%E6%A1%A3%E5%A4%87%E4%BB%BD%20-%20%E7%A0%81%E4%BA%91%20-%20%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%20-%20Google%20Chrome_2022-08-07_18-18-41.png)
 
-5. 执行
+5. 执行  
 python main.py
-6. 备份好的文档，您也可以上传到云盘再次保存，记得压缩加密哈
+6. 备份好的文档，您也可以上传到云盘再次保存，记得压缩加密哈  
 #### 参与贡献
 
 1.  Fork 本仓库
