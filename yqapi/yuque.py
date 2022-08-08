@@ -35,6 +35,9 @@ class YQRepo(Common):
         params['offset'] = offset
         params['limit'] = limit
         resp = YQRequest(TOKEN).get(url=self.url, params=params)
+        status_code = resp.status_code
+        if status_code !=200:
+            raise Exception('请求失败，状态码：%s' % status_code)
         return resp.json()
 
     def get_info_by_id(self,id):
